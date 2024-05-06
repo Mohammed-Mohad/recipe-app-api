@@ -5,3 +5,4 @@ excude =
     settings.py,
     manage.py,
     __pycache__
+    
